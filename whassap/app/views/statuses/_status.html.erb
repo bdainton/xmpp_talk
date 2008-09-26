@@ -1,0 +1,9 @@
+<li>
+  <div class="status">
+    <p class="body"><%= status.body %>
+    <span class="timestamp">
+    <%= "#{distance_of_time_in_words_to_now(status.created_at)} ago" %>
+    </span>
+    </p> 
+  </div>
+</li>

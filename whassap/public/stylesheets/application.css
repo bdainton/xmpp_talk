@@ -1,0 +1,49 @@
+/* @group layout */
+
+body {color: #333; background: red url('/images/gold_stripes.png'); font: 12px/17px Helvetica,Sans-Serif; margin: 0; min-width: 700px;}
+#user-links, #page, #legal {width: 95%; margin: 0 auto;}
+a {color: #069; outline: none;}
+img {border: 0;}
+label {display: block; margin-bottom: 3px;}
+label.inline {display: inline;}
+input {margin-bottom: 12px;}
+input[type="checkbox"] {position: relative; top: 2px;}
+ul {padding: 0;}
+li {list-style-type: none;}
+dd { margin:0;}
+hr { color: #e6e6e6; }
+
+h1,h2,h3,h4,h5,h6 {margin: 0;}
+h1 a { color: white; text-decoration: none;}
+
+dd { margin-left: 12px; }
+
+/* @end */
+
+/* @group clearfix */
+
+.clearfix {*display: inline-block;}
+.clearfix:after {display: block; visibility: hidden; clear: both; height: 0; content: ".";}
+
+/* @end */
+
+/* @group page */
+
+body #page {width: 700px; padding: 20px; 
+	border-left: 2px solid #333; 
+	border-right: 2px solid #333;
+	border-bottom: 2px solid #333;}
+body h1 {line-height: 40px; font-size: 40px;}
+body h2 {line-height: 20px; font-size: 20px;}
+body .content{ background: none;}
+#page {background: white url("/images/question_mark_small.jpg") 450px 0px no-repeat;}
+body textarea { width: 520px; height: 100px; border: 2px solid #111; font: 24px Helvetica; color: #444;}
+body input {width: 100px; margin: 10px 0px 0px 420px; }
+div.status p { font-size: 2.0em; }
+div.status .timestamp { display: block; clear: both; font-size: 0.5em; color: #666;}
+
+/* @end */
+
+.notice {padding: 10px; width: 300px; -moz-border-radius: 10px; font-size: 1.2em;}
+.good { color: green; border: 2px solid green;}
+.bad { color: red; border: 2px solid red; }

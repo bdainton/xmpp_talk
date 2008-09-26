@@ -1,0 +1,1 @@
+NOTIFIER_BOT_CONNECTION = Jabber::Simple.new("whassap_notifier_bot@tiamat.local", "test") rescue nil

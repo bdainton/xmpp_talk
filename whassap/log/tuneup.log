@@ -1,0 +1,1539 @@
+# Logfile created on Fri Sep 12 14:03:23 -0500 2008 by /
+FiveRuns TuneUp (v0.8.14): Rails version 2.1.0 is supported, loading...
+FiveRuns TuneUp (v0.8.14): Started.
+FiveRuns TuneUp (v0.8.14): Inserted asset tags
+FiveRuns TuneUp (v0.8.14): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-12 14:04:44) [GET]
+FiveRuns TuneUp (v0.8.14):   Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--a2e244d766709cc6316498259603dda121f9fa77
+FiveRuns TuneUp (v0.8.14):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.14): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-12 14:04:44) [POST]
+FiveRuns TuneUp (v0.8.14):   Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--a2e244d766709cc6316498259603dda121f9fa77
+FiveRuns TuneUp (v0.8.14):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.14): Retrieved last run id of  for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.14): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.14): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221246286580_22005
+FiveRuns TuneUp (v0.8.14): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-12 14:04:46) [GET]
+FiveRuns TuneUp (v0.8.14):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW4iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xs
+ZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--02bd2fa4b12241edbb0a83ad46d374f4a8ec97dc
+FiveRuns TuneUp (v0.8.14):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.14): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-12 14:04:46) [POST]
+FiveRuns TuneUp (v0.8.14):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW4iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xs
+ZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--02bd2fa4b12241edbb0a83ad46d374f4a8ec97dc
+FiveRuns TuneUp (v0.8.14):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.14): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221246286580_22005 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 0:0:0:0:0:0:0:1%0 at 2008-09-12 14:14:16) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW4iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xs
+ZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--02bd2fa4b12241edbb0a83ad46d374f4a8ec97dc
+FiveRuns TuneUp (v0.8.15):   Parameters: {"controller"=>"tuneup", "action"=>"sandbox"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 0:0:0:0:0:0:0:1%0 at 2008-09-12 14:14:17) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW4iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xs
+ZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--02bd2fa4b12241edbb0a83ad46d374f4a8ec97dc
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "controller"=>"tuneup", "action"=>"show"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221246286580_22005 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221246861631_58153
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 0:0:0:0:0:0:0:1%0 at 2008-09-12 14:14:21) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW4iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xs
+ZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--02bd2fa4b12241edbb0a83ad46d374f4a8ec97dc
+FiveRuns TuneUp (v0.8.15):   Parameters: {"controller"=>"tuneup", "action"=>"sandbox"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 0:0:0:0:0:0:0:1%0 at 2008-09-12 14:14:22) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW4iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xs
+ZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--02bd2fa4b12241edbb0a83ad46d374f4a8ec97dc
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "controller"=>"tuneup", "action"=>"show"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221246861631_58153 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221246864323_91681
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 0:0:0:0:0:0:0:1%0 at 2008-09-12 14:14:24) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW4iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xs
+ZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--02bd2fa4b12241edbb0a83ad46d374f4a8ec97dc
+FiveRuns TuneUp (v0.8.15):   Parameters: {"controller"=>"tuneup", "action"=>"sandbox"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 0:0:0:0:0:0:0:1%0 at 2008-09-12 14:14:24) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW4iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xs
+ZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--02bd2fa4b12241edbb0a83ad46d374f4a8ec97dc
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "controller"=>"tuneup", "action"=>"show"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221246864323_91681 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:12:02) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--a2e244d766709cc6316498259603dda121f9fa77
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:12:03) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--a2e244d766709cc6316498259603dda121f9fa77
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221246864323_91681 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621201961_229016
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621221428_26160
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:13:41) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:13:41) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221621221428_26160 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621233762_24665
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:13:53) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:13:54) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221621233762_24665 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621327993_197638
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621335212_221098
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621343762_205353
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621353290_207175
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621359060_234187
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621371430_25113
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:16:11) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:16:11) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221621371430_25113 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621630752_21829
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:20:30) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:20:31) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221621630752_21829 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221621637447_1004
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621637574_92604
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:20:37) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:20:37) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221621637574_92604 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621717547_20451
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:21:57) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:21:57) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221621717547_20451 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621809512_23511
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:23:29) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:23:30) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221621809512_23511 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221621817901_25903
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621818156_212385
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621859859_145552
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:24:20) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:24:20) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221621859859_145552 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221621865814_26407
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621865878_23928
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:24:26) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:24:26) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221621865878_23928 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621918812_259604
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621923362_245019
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621986348_249762
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221621990797_107125
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:26:30) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:26:31) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221621990797_107125 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221621995057_95062
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:30:56) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:30:57) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of  for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221622266379_20030
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221622266450_27891
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:31:06) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiU4YjgzNjVkMWY5MWU2YzY4MTI1N2RhMDVh
+N2M3YzhhOCIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsGOgtub3RpY2UiGEJvZHkgY2FuJ3QgYmUgYmxhbmsGOgpAdXNl
+ZHsGOwdU--c4d0c631d93dbd561056af67788e1fa6699ec84c
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:31:06) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiU4YjgzNjVkMWY5MWU2YzY4MTI1N2RhMDVh
+N2M3YzhhOCIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--13807c0f84bbb98f42c1f59b2fa45922b0e0c9ed
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221622266450_27891 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221622275703_26439
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221622275850_29937
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:31:16) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--2174d2f04e0c06af34176d592ff3e6f22587857e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:31:16) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221622275850_29937 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221622924571_845407
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221622924695_64182
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:42:04) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--2174d2f04e0c06af34176d592ff3e6f22587857e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:42:05) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221622924695_64182 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221622952052_773474
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221622952149_35466
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:42:32) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--2174d2f04e0c06af34176d592ff3e6f22587857e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:42:32) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221622952149_35466 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221622971126_803575
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221622971218_31130
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:42:51) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--2174d2f04e0c06af34176d592ff3e6f22587857e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:42:51) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221622971218_31130 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221623024985_990212
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221623025103_28385
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:43:45) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--2174d2f04e0c06af34176d592ff3e6f22587857e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:43:45) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221623025103_28385 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221623043094_842498
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221623043180_31735
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:44:03) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--2174d2f04e0c06af34176d592ff3e6f22587857e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:44:03) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221623043180_31735 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/mike using stub 71f2302d1368775cf359219fc8c9a98cfcbf656b
+FiveRuns TuneUp (v0.8.15): Persisting 71f2302d1368775cf359219fc8c9a98cfcbf656b/1221623082113_26408
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:44:42) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:44:42) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/mike", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 71f2302d1368775cf359219fc8c9a98cfcbf656b/1221623082113_26408 for http://localhost:3000/users/mike using stub 71f2302d1368775cf359219fc8c9a98cfcbf656b
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221623085194_30947
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:44:45) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiVodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvbWlrZToMY3NyZl9pZCIlOGI4MzY1ZDFmOTFlNmM2
+ODEyNTdkYTA1YTdjN2M4YTgiCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6
+OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--eb3b12ec4df36b6b8ac7714d0a7496a7fe7e558c
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:44:45) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiVodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvbWlrZToMY3NyZl9pZCIlOGI4MzY1ZDFmOTFlNmM2
+ODEyNTdkYTA1YTdjN2M4YTgiCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6
+OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--eb3b12ec4df36b6b8ac7714d0a7496a7fe7e558c
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221623085194_30947 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221623153306_942368
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221623154584_775279
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:45:55) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--2174d2f04e0c06af34176d592ff3e6f22587857e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:45:56) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221623154584_775279 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221623486012_879915
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221623486122_30612
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:51:26) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--2174d2f04e0c06af34176d592ff3e6f22587857e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:51:26) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221623486122_30612 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221623631224_938535
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221623632716_861088
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:53:53) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--2174d2f04e0c06af34176d592ff3e6f22587857e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:53:54) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221623632716_861088 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221623929829_32659
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:58:50) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:58:50) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221623929829_32659 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221623936510_851172
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221623958510_681723
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221623958785_39513
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:59:19) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--2174d2f04e0c06af34176d592ff3e6f22587857e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:59:19) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221623958785_39513 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221623975059_678697
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221623975300_29573
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-16 22:59:35) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--2174d2f04e0c06af34176d592ff3e6f22587857e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-16 22:59:35) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJThiODM2NWQxZjkxZTZj
+NjgxMjU3ZGEwNWE3YzdjOGE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--3b2af487e09e2f135ac88fad406e2f0fa9a94952
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221623975300_29573 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 09:50:39) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7BzoMY3NyZl9pZCIlMDk1MWI2NDE1ZTY5Njk4MGE4NzkyNjc2OTM4M2E1
+MjIiCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhh
+c2h7AAY6CkB1c2VkewA=--52771fb2e9d4ba5fad943e00a3e7266d844d389e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 09:50:40) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7BzoMY3NyZl9pZCIlMDk1MWI2NDE1ZTY5Njk4MGE4NzkyNjc2OTM4M2E1
+MjIiCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhh
+c2h7AAY6CkB1c2VkewA=--52771fb2e9d4ba5fad943e00a3e7266d844d389e
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of  for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting c941ad20dc843d199a8832622748bcf0b460ca68/1221749485761_33202
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 09:51:25) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 09:51:26) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221749485761_33202 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting c941ad20dc843d199a8832622748bcf0b460ca68/1221749489528_37481
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 09:51:29) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 09:51:30) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221749489528_37481 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting c941ad20dc843d199a8832622748bcf0b460ca68/1221749494077_26036
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 09:51:34) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 09:51:34) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221749494077_26036 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting c941ad20dc843d199a8832622748bcf0b460ca68/1221749503488_37614
+FiveRuns TuneUp (v0.8.15): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting c941ad20dc843d199a8832622748bcf0b460ca68/1221749513146_39000
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 09:51:53) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 09:51:53) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221749513146_39000 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting c941ad20dc843d199a8832622748bcf0b460ca68/1221749587491_109598
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 09:53:07) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 09:53:07) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221749587491_109598 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 15:25:31) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 15:25:31) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:4000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of  for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221769582711_37379
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 15:26:22) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 15:26:23) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:4000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of fe6532952e074bcf465144960feedb586eda4578/1221769582711_37379 for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221769779577_38742
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 15:29:39) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 15:29:40) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:4000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of fe6532952e074bcf465144960feedb586eda4578/1221769779577_38742 for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221769783303_38327
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 15:29:43) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 15:29:44) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:4000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of fe6532952e074bcf465144960feedb586eda4578/1221769783303_38327 for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221769807967_32270
+FiveRuns TuneUp (v0.8.15): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221769823124_33838
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 15:30:23) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 15:30:23) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:4000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of fe6532952e074bcf465144960feedb586eda4578/1221769823124_33838 for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221769953015_38403
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 15:32:33) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 15:32:33) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:4000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of fe6532952e074bcf465144960feedb586eda4578/1221769953015_38403 for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221769957758_33915
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 15:32:38) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 15:32:38) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:4000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of fe6532952e074bcf465144960feedb586eda4578/1221769957758_33915 for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221770144614_30407
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 15:35:44) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 15:35:45) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:4000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of fe6532952e074bcf465144960feedb586eda4578/1221770144614_30407 for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221770825623_34928
+FiveRuns TuneUp (v0.8.15): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221770848419_33258
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 15:47:28) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 15:47:29) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:4000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of fe6532952e074bcf465144960feedb586eda4578/1221770848419_33258 for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221770858452_37026
+FiveRuns TuneUp (v0.8.15): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221770868856_39047
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 15:47:49) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 15:47:49) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:4000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of fe6532952e074bcf465144960feedb586eda4578/1221770868856_39047 for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221770967499_38582
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 15:49:27) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 15:49:27) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:4000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of fe6532952e074bcf465144960feedb586eda4578/1221770967499_38582 for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Persisting fe6532952e074bcf465144960feedb586eda4578/1221770971621_36681
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 15:49:31) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 15:49:32) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:4000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of fe6532952e074bcf465144960feedb586eda4578/1221770971621_36681 for http://localhost:4000/ using stub fe6532952e074bcf465144960feedb586eda4578
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 16:03:53) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 16:03:54) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjQwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--a27ec55fcd95c803445388bc84add3b40b410d1a
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221749587491_109598 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting c941ad20dc843d199a8832622748bcf0b460ca68/1221771836550_28627
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 16:03:57) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 16:03:57) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221771836550_28627 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting c941ad20dc843d199a8832622748bcf0b460ca68/1221772965052_29338
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 16:22:45) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 16:22:45) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221772965052_29338 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 23:51:04) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 23:51:04) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221772965052_29338 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221799872462_502098
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 23:55:18) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsGOgtub3RpY2UiLVRoYW5rcyBmb3IgdXBkYXRpbmcgeW91ciBX
+aGFzc2FwIHN0YXR1cyEGOgpAdXNlZHsGOwdG--9ff17989bc36ae885ac91999d75ea5d076de9677
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 23:55:18) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsGOgtub3RpY2UiLVRoYW5rcyBmb3IgdXBkYXRpbmcgeW91ciBX
+aGFzc2FwIHN0YXR1cyEGOgpAdXNlZHsGOwdU--82bde679d5d331d11f3a0ba905f454fb3ce40a20
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221772965052_29338 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221800122850_322449
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 23:57:03) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsGOgtub3RpY2UiLVRoYW5rcyBmb3IgdXBkYXRpbmcgeW91ciBX
+aGFzc2FwIHN0YXR1cyEGOgpAdXNlZHsGOwdG--9ff17989bc36ae885ac91999d75ea5d076de9677
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 23:57:03) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsGOgtub3RpY2UiLVRoYW5rcyBmb3IgdXBkYXRpbmcgeW91ciBX
+aGFzc2FwIHN0YXR1cyEGOgpAdXNlZHsGOwdU--82bde679d5d331d11f3a0ba905f454fb3ce40a20
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221772965052_29338 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221800226312_243178
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221800235054_189852
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221800243848_409105
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221800244011_41527
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-18 23:57:24) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsGOgtub3RpY2UiLVRoYW5rcyBmb3IgdXBkYXRpbmcgeW91ciBX
+aGFzc2FwIHN0YXR1cyEGOgpAdXNlZHsGOwdU--82bde679d5d331d11f3a0ba905f454fb3ce40a20
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-18 23:57:24) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221800244011_41527 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221801133006_80452612
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221801133131_37492
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 00:12:13) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJTA5NTFiNjQxNWU2OTY5
+ODBhODc5MjY3NjkzODNhNTIyIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--9c45818aca9a8088066290c02801fb178468e54d
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-19 00:12:13) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJTA5NTFiNjQxNWU2OTY5
+ODBhODc5MjY3NjkzODNhNTIyIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--a447f1381e0fbcc4467eaafce3eb85af600f7c26
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221801133131_37492 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221801147671_23173
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 00:26:50) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJTA5NTFiNjQxNWU2OTY5
+ODBhODc5MjY3NjkzODNhNTIyIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewY6C25vdGljZSItVGhhbmtzIGZvciB1cGRh
+dGluZyB5b3VyIFdoYXNzYXAgc3RhdHVzIQY6CkB1c2VkewY7B1Q=--9c45818aca9a8088066290c02801fb178468e54d
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-19 00:26:50) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJTA5NTFiNjQxNWU2OTY5
+ODBhODc5MjY3NjkzODNhNTIyIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--a447f1381e0fbcc4467eaafce3eb85af600f7c26
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221801133131_37492 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221802018224_22023
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221802051389_30371
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221802061605_31025
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses?body=testing using stub a90091af331414c9516b896d4067851615d27111
+FiveRuns TuneUp (v0.8.15): Persisting a90091af331414c9516b896d4067851615d27111/1221802064554_45865
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221802071696_27275
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221802081788_31508
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221802091959_29359
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221802102052_27865
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221802112238_33082
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221802122382_24876
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221802132565_35143
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221802142656_28077
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221802152842_32114
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 00:41:03) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJTA5NTFiNjQxNWU2OTY5
+ODBhODc5MjY3NjkzODNhNTIyIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--a447f1381e0fbcc4467eaafce3eb85af600f7c26
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-19 00:41:04) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJTA5NTFiNjQxNWU2OTY5
+ODBhODc5MjY3NjkzODNhNTIyIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--a447f1381e0fbcc4467eaafce3eb85af600f7c26
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221772965052_29338 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221802869091_277888
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221802869250_40120
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 00:41:09) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsGOgtub3RpY2UiLVRoYW5rcyBmb3IgdXBkYXRpbmcgeW91ciBX
+aGFzc2FwIHN0YXR1cyEGOgpAdXNlZHsGOwdU--82bde679d5d331d11f3a0ba905f454fb3ce40a20
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-19 00:41:09) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvOgxjc3JmX2lkIiUwOTUxYjY0MTVlNjk2OTgwYTg3OTI2NzY5
+MzgzYTUyMiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZs
+YXNoSGFzaHsABjoKQHVzZWR7AA==--7511b03a804d5d204e845a446a8c962e9737a8d8
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221802869250_40120 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803003289_32612
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses.xml?status%5Bbody%5D=test using stub 31a0ee72c1d8b45d148eda564d435a7c29fa2262
+FiveRuns TuneUp (v0.8.15): Persisting 31a0ee72c1d8b45d148eda564d435a7c29fa2262/1221803006692_12921
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803013500_28901
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803023670_111600
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803033768_29144
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221803034898_28955
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 00:43:55) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJTA5NTFiNjQxNWU2OTY5
+ODBhODc5MjY3NjkzODNhNTIyIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--a447f1381e0fbcc4467eaafce3eb85af600f7c26
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-19 00:43:55) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJTA5NTFiNjQxNWU2OTY5
+ODBhODc5MjY3NjkzODNhNTIyIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--a447f1381e0fbcc4467eaafce3eb85af600f7c26
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221803034898_28955 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803043875_25503
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803053967_24457
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803064153_20672
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803074241_30421
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803084381_30007
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803094589_144272
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221803100555_31610
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 00:45:00) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJTA5NTFiNjQxNWU2OTY5
+ODBhODc5MjY3NjkzODNhNTIyIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--a447f1381e0fbcc4467eaafce3eb85af600f7c26
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-19 00:45:01) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7CCIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW46DGNzcmZfaWQiJTA5NTFiNjQxNWU2OTY5
+ODBhODc5MjY3NjkzODNhNTIyIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy
+OjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--a447f1381e0fbcc4467eaafce3eb85af600f7c26
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221803100555_31610 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803104682_28965
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses.xml?status%5Bbody%5D=boobear using stub 4abceaabef7c45e5dc5d6c12639514962f419b96
+FiveRuns TuneUp (v0.8.15): Persisting 4abceaabef7c45e5dc5d6c12639514962f419b96/1221803113247_34900
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803114772_27781
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803124996_27097
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803135081_27032
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803145170_28927
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803155303_23589
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803165516_30951
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803175605_23910
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803185693_29653
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803195786_27406
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803205990_24109
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803216090_28642
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803350701_175252
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses.xml?status%5Bbody%5D=foo123 using stub c68eb9650fa8eb5a7cc36eb4f201e9be64b44f87
+FiveRuns TuneUp (v0.8.15): Persisting c68eb9650fa8eb5a7cc36eb4f201e9be64b44f87/1221803355200_28960
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803360967_32594
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803371070_24956
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses.xml?status%5Bbody%5D=holy+crap+this+is+finally+working using stub 923006af45ae97808bbdce431b4d34eddae313ea
+FiveRuns TuneUp (v0.8.15): Persisting 923006af45ae97808bbdce431b4d34eddae313ea/1221803374019_27255
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses? using stub 741ab29085488a24f021ce46c5f562cafeddce45
+FiveRuns TuneUp (v0.8.15): Persisting 741ab29085488a24f021ce46c5f562cafeddce45/1221803381172_27848
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 22:52:22) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--a2e244d766709cc6316498259603dda121f9fa77
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-19 22:52:23) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--a2e244d766709cc6316498259603dda121f9fa77
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221772965052_29338 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian/statuses.xml?status%5Bbody%5D=hello using stub 7e199f4578ef27167ca639429b81770971c0f278
+FiveRuns TuneUp (v0.8.15): Persisting 7e199f4578ef27167ca639429b81770971c0f278/1221883432218_28524
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting c941ad20dc843d199a8832622748bcf0b460ca68/1221883441424_42115
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 23:04:01) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVyOjpGbGFzaDo6
+Rmxhc2hIYXNoewAGOgpAdXNlZHsA--c2c089e1eca026f1f727738d5c32886e8f01f3ee
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-19 23:04:01) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVyOjpGbGFzaDo6
+Rmxhc2hIYXNoewAGOgpAdXNlZHsA--c2c089e1eca026f1f727738d5c32886e8f01f3ee
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221883441424_42115 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221883471760_194208
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 23:04:46) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVyOjpGbGFzaDo6
+Rmxhc2hIYXNoewAGOgpAdXNlZHsA--c2c089e1eca026f1f727738d5c32886e8f01f3ee
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-19 23:04:46) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVyOjpGbGFzaDo6
+Rmxhc2hIYXNoewAGOgpAdXNlZHsA--c2c089e1eca026f1f727738d5c32886e8f01f3ee
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221883441424_42115 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting c941ad20dc843d199a8832622748bcf0b460ca68/1221883489193_43912
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 23:04:49) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVyOjpGbGFzaDo6
+Rmxhc2hIYXNoewAGOgpAdXNlZHsA--c2c089e1eca026f1f727738d5c32886e8f01f3ee
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-19 23:04:49) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVyOjpGbGFzaDo6
+Rmxhc2hIYXNoewAGOgpAdXNlZHsA--c2c089e1eca026f1f727738d5c32886e8f01f3ee
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of c941ad20dc843d199a8832622748bcf0b460ca68/1221883489193_43912 for http://localhost:3000/ using stub c941ad20dc843d199a8832622748bcf0b460ca68
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting 758931b9abf078eadfb5135641c516fdd81202ac/1221883493647_31782
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 23:04:54) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVyOjpGbGFzaDo6
+Rmxhc2hIYXNoewAGOgpAdXNlZHsA--c2c089e1eca026f1f727738d5c32886e8f01f3ee
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-19 23:04:54) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIhtodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVyOjpGbGFzaDo6
+Rmxhc2hIYXNoewAGOgpAdXNlZHsA--c2c089e1eca026f1f727738d5c32886e8f01f3ee
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221883493647_31782 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Persisting for http://localhost:3000/statuses using stub fa8c4889c785c03f58c687ca5045be3ec1e05ab9
+FiveRuns TuneUp (v0.8.15): Persisting fa8c4889c785c03f58c687ca5045be3ec1e05ab9/1221883501110_139052
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 23:05:04) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW4iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xs
+ZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--02bd2fa4b12241edbb0a83ad46d374f4a8ec97dc
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#show (for 127.0.0.1 at 2008-09-19 23:05:05) [POST]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW4iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xs
+ZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--02bd2fa4b12241edbb0a83ad46d374f4a8ec97dc
+FiveRuns TuneUp (v0.8.15):   Parameters: {"uri"=>"http://localhost:3000/users/brian", "action"=>"show", "controller"=>"tuneup"}
+FiveRuns TuneUp (v0.8.15): Retrieved last run id of 758931b9abf078eadfb5135641c516fdd81202ac/1221883493647_31782 for http://localhost:3000/users/brian using stub 758931b9abf078eadfb5135641c516fdd81202ac
+FiveRuns TuneUp (v0.8.15): Rails version 2.1.1 is supported, loading...
+FiveRuns TuneUp (v0.8.15): Started.
+FiveRuns TuneUp (v0.8.15): Inserted asset tags
+FiveRuns TuneUp (v0.8.15): 
+
+Processing TuneupController#sandbox (for 127.0.0.1 at 2008-09-19 23:09:19) [GET]
+FiveRuns TuneUp (v0.8.15):   Session ID: BAh7ByIdZml2ZXJ1bnNfdHVuZXVwX2xhc3RfdXJpIiZodHRwOi8vbG9jYWxo
+b3N0OjMwMDAvdXNlcnMvYnJpYW4iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xs
+ZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA=--02bd2fa4b12241edbb0a83ad46d374f4a8ec97dc
+FiveRuns TuneUp (v0.8.15):   Parameters: {"action"=>"sandbox", "controller"=>"tuneup"}

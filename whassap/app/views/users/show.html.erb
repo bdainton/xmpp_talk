@@ -1,0 +1,13 @@
+<h1>Whassap, <%= @user.name.titleize %>?</h1>
+
+<% form_for([@user, @status]) do |f| %>
+<%= f.text_area :body %>
+<%= f.hidden_field :user_id %>
+<br/>
+<%= f.submit 'Hit me!' %>
+<% end %>
+<h2>........</h2>
+<ul>
+<%= render :partial => @user.statuses %>
+</ul>
+<br/>

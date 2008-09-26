@@ -1,0 +1,47 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+# one:
+#   column: value
+#
+# two:
+#   column: value
+
+brian_1:
+  user: brian
+  body: Working again on this AoR XMPP talk. Hackfests ftw!
+  created_at: <%= 3.hours.ago %>
+  
+brian_2:
+  user: brian
+  body: Chillin' at Austin Java, yo. More code.
+  created_at: <%= 2.days.ago %>
+  
+brian_3:
+  user: brian
+  body: Just fired a 2-under par 69 at the First Annual FiveRuns Golf Scramble.
+  created_at: <%= 6.days.ago %>
+  
+brian_4:
+  user: brian
+  body: Trying to get to the end of a bottomless cup of coffee at Austin Java.
+  created_at: <%= 8.days.ago %>
+  
+bruce_1:
+  user: bruce
+  body: Giving Whassap a shot.  Putting Twitter on the backburner.
+  created_at: <%= 12.hours.ago %>        
+
+eric_1:
+  user: eric
+  body: Totally loving Whassap.  I need to write an iPhone app.
+  created_at: <%= 3.days.ago %>  
+  
+mike_1:
+  user: mike
+  body: Straight up pimpin'.
+  created_at: <%= 6.hours.ago %>  
+    
+mike_2:
+  user: mike
+  body: Heading out to the Symphony.  Bach in black!
+  created_at: <%= 2.hours.ago %>

@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>Whassap?</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <%= stylesheet_link_tag 'application' %>
+  </head>
+  <body>
+    <div id="page">
+      <div class="content">
+        <div class="main">
+          <div class="padder">
+            <% if flash[:notice] %>
+            <p class="notice <%= flash[:status] || 'good' %>"><%= flash[:notice] %></p>
+            <% else %>
+            <p>&nbsp;</p>
+            <% end %>
+            <%= yield %>
+          </div>
+        </div>
+      </div>
+    <div>
+  </body>
+</html>

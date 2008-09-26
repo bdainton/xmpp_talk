@@ -8,7 +8,7 @@ You'll see references to 'tiamat.local' herein.  That's the name of my developme
 
 == Dependencies
 
-Nearly all of them are dependent upon the 'xmpp4r' gem and my fork of the 'xmpp4r-simple' gem (http://github.com/bdainton/xmpp4r-simple).
+Nearly all of them are dependent upon the 'xmpp4r' gem and my fork of the 'xmpp4r-simple' gem (http://github.com/bdainton/xmpp4r-simple).  Several examples depend on the awesome 'httparty' gem from jnunemaker (http://github.com/jnunemaker/httparty).  If you don't have it already, you want it.
 
 Oh, and you'll want to set up a Jabber server somewhere.  I used a local ejabberd installation.
 
